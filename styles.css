@@ -1,0 +1,25 @@
+a {
+    color: black;
+    background-color: orange;
+    font-weight: bold;
+}
+.black {
+    color: white;
+    background-color: black;
+}
+.yellow {
+    color: black;
+    background-color: yellow;
+}
+.title_links {
+    color: aqua;
+    font-size: large;
+}
+img {
+    width: 600px;
+    height: 600px;
+}
+.headings {
+    color: black;
+    background-color: blue;
+}
